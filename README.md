@@ -1,4 +1,4 @@
-> **As we were writing our response to the RFI for a DTIC Master Data Repository (ref: https://www.fbo.gov/index?id=6954cb16269968c2c87cab3223dcbb40), I realized that many of the topics are continually being discussed with current and potential clients, etc.**
+> **As I was writing our response to the RFI for a DTIC Master Data Repository (ref: https://www.fbo.gov/index?id=6954cb16269968c2c87cab3223dcbb40), I realized that many of the topics are continually being discussed with current and potential clients, etc.**
 >
 >And since I **hate** writing white papers, I realized that it may make sense to simply publish our RFI response (sans sensitive info of course) on Github.
 >
